@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/icon.png" alt="Kanso-Project Kodi Addons" width="600" />
+  <img src="../assets/icon.png" alt="Kanso-Project Kodi Addons" width="600" />
   <p><em>Simplicity, structural clarity, and lightweight architecture for Kodi media centers.</em></p>
 
   <a href="https://kanso-project.github.io">Website & Kodi Repo Source</a> •
@@ -30,5 +30,5 @@
 ---
 
 <div align="center">
-  <img src="./assets/logo.png" alt="Kanso-Project Banner" width="100%" />
+  <img src="../assets/logo.png" alt="Kanso-Project Banner" width="100%" />
 </div>
